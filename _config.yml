@@ -1,0 +1,88 @@
+---
+booktitle: Proceedings of the Tenth Symposium on Conformal and Probabilistic Prediction
+  and Applications
+shortname: COPA
+volume: '152'
+year: '2021'
+start: 2021-09-08
+end: 2021-09-10
+published: 2021-09-20
+url: https://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: COPA-2021
+month: 0
+cycles: false
+bibtex_editor: Carlsson, Lars and Luo, Zhiyuan and Cherubin, Giovanni and An Nguyen,
+  Khuong
+editor:
+- given: Lars
+  family: Carlsson
+- given: Zhiyuan
+  family: Luo
+- given: Giovanni
+  family: Cherubin
+- given: Khuong
+  family: An Nguyen
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Tenth Symposium on Conformal and Probabilistic Prediction and Applications
+    Held in Virtual on 08-10 September 2021
+
+  Published as Volume 152 by the Proceedings of Machine Learning Research on 20 September 2021.
+
+  Volume Edited by:
+    Lars Carlsson
+    Zhiyuan Luo
+    Giovanni Cherubin
+    Khuong An Nguyen
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: '08--10 Sep'
+author:
+  name: PMLR
+baseurl: "/v152"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v152
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v152
+email: ''
+conference:
+  name: Conformal and Probabilistic Prediction and Applications
+  url:
+  location: Virtual
+  dates:
+  - 2021-09-08
+  - 2021-09-09
+  - 2021-09-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v152/copa21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v152/copa21.bib
